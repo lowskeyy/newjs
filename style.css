@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    padding: 0;
+}
+
+.ontop {
+    width: 100%;
+    height: 333px;
+}
+
+.img1 {
+    border-radius: 100px;
+    padding: 4px;
+    display: block;
+
+}
+
+.who-u {
+    width: 60%;
+    height: 150px;
+    position: relative;
+    bottom: 250px;
+}
+
+.who-u h5 {
+    text-align: center;
+    text-shadow: 0 0 3px black;
+}
+
+.who-u input {
+    margin-left: 9%;
+}
+
+.sended {
+    margin-left: 68%;
+    margin-top: 13px;
+}
